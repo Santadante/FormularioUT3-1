@@ -9,7 +9,8 @@
         MinWidth="400"
         MaxWidth="1000"
         MinHeight="300"
-        MaxHeight="300">
+        MaxHeight="300"
+        Icon="form.ico">
     <Grid>
         <StackPanel>
 
